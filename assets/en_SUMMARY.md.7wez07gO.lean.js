@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,al as t}from"./chunks/framework.DM883ANZ.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/SUMMARY.md","filePath":"en/SUMMARY.md"}'),r={name:"en/SUMMARY.md"};function s(m,e,o,h,n,c){return i(),l("div",null,[...e[0]||(e[0]=[t("",1)])])}const u=a(r,[["render",s]]);export{g as __pageData,u as default};
