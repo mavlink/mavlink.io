@@ -1,1 +1,0 @@
-import{_ as i,c as a,o as s,al as o}from"./chunks/framework.DM883ANZ.js";const u=JSON.parse('{"title":"CLAUDE.md","description":"","frontmatter":{},"headers":[],"relativePath":"CLAUDE.md","filePath":"CLAUDE.md"}'),n={name:"CLAUDE.md"};function d(t,e,l,c,r,h){return s(),a("div",null,[...e[0]||(e[0]=[o("",20)])])}const k=i(n,[["render",d]]);export{u as __pageData,k as default};
